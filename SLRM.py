@@ -5,7 +5,7 @@ from scipy.ndimage import gaussian_filter
 from rasterio.plot import show, show_hist
 
 
-#Dodaj input path do folderja da se vsi tifi štejejo, in isto za output.
+#Dodaj input path do folderja da se vsi tifi štejejo, in isto za output. GLOB
 #dodaj še vmin, vmax ter radius(sigma) kot input 
 
 dem_path = os.path.normpath(r"/home/leon/Dokumenti/KODA/Python/Rasterio/Pivola.tif")
