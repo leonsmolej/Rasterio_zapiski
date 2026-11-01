@@ -18,8 +18,6 @@ pip install rasterio numpy geopandas pyproj matplotlib jupyterlab
 jupyter lab rasterio.ipynb
 ```
 
-V notebooku popravi poti do svojih datotek.
-
 ## Podatki
 
 | Datoteka | Opis | Vir |
